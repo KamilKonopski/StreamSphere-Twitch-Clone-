@@ -9,7 +9,7 @@ export default {
       xl: "1440px",
     },
     colors: {
-      "main-color": "#1E90FF",
+      main: "#1E90FF",
       "light-theme": "#F5F5F5",
       "light-navigation": "#E3F2FD",
       "light-text": "#212121",
