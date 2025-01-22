@@ -22,8 +22,8 @@ export default {
       "dark-extras": "#455A64",
     },
     fontFamily: {
-      main: ["Graphik", "sans-serif"],
-      serif: ["Merriweather", "serif"],
+      main: ["Inter", "sans-serif"],
+      second: ["Poppins", "sans-serif"],
     },
   },
   plugins: [],
